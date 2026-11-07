@@ -2,7 +2,7 @@
 
 A keyboard-only, three-hero campaign across four realms. This alpha is for playtesting; balance, performance, and presentation may change.
 
-Live browser build: https://jupiternull.github.io/cruel-world/
+Live browser build: https://conficked.github.io/cruel-world/
 
 Click the launch screen, then click the game to focus it. Use arrows/WASD and Enter/Space in menus. Move with A/D or Left/Right; Space jumps; W/S or Up/Down climbs; F attacks; E uses the class ability; Shift or Q uses class-specific defensive mobility. Escape/P pauses; losing focus also pauses. Sound and volume are in Settings. Use the host fullscreen button in the browser.
 
