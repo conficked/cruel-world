@@ -1,6 +1,6 @@
 # Cruel World
 
-**[Play the browser alpha](https://jupiternull.github.io/cruel-world/)**
+**[Play the browser alpha](https://conficked.github.io/cruel-world/)**
 
 Desktop keyboard required; touch controls are not supported. Browser alpha loading may take a moment, audio requires interaction, and browser saves are session-local. Mechanics, balance, art, and content may change.
 
